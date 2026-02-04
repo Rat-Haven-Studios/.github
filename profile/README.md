@@ -24,7 +24,7 @@ All of our jam projects are open-source and live here.
       <td><a href="https://itch.io/jam/kenney-jam-2025">Kenney Jam 2025</a></td>
       <td>Power</td>
       <td>July 2025</td>
-      <td>—</td>
+      <td>~~~</td>
     </tr>
     <tr>
       <td><a href="https://hutnerr.itch.io/forgotten-paths">Forgotten Paths</a></td>
@@ -43,27 +43,31 @@ All of our jam projects are open-source and live here.
   </tbody>
 </table>
 
-## Members
+## Current Members
 
 <table>
   <thead>
     <tr>
       <th>hutner</th>
       <th>Kob</th>
+      <th>Lopez</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://hutnerr.itch.io/">Itch.io</a></td>
       <td><a href="https://koborooski.itch.io/">Itch.io</a></td>
+      <td><a href="https://itch.io/profile/sketchophrenic">Itch.io</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hutnerr">GitHub</a></td>
       <td><a href="https://github.com/Koborooski">GitHub</a></td>
+      <td>~~~</td>
     </tr>
     <tr>
       <td><a href="https://www.hunter-baker.com/">Portfolio</a></td>
       <td><a href="https://koborooski.github.io/Personal-Website/">Portfolio</a></td>
+      <td>~~~</td>
     </tr>
   </tbody>
 </table>
