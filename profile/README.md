@@ -1,8 +1,10 @@
-# Rat Haven Studios 🐀
+# Rat Haven Studios
 
 Rat Haven Studios is a small group of friends who make games and primarily work in **Godot**.
 
 All of our jam projects are open-source and live here.
+
+<img src="https://github.com/Rat-Haven-Studios/.github/blob/main/logo.png">
 
 ## Jam Games
 
