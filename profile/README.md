@@ -1,7 +1,11 @@
-## Rat Haven Studios
-We are a group of friends who make games using the Godot engine.
+# Rat Haven Studios 🐀
 
-<strong>Jam Games</strong>
+Rat Haven Studios is a small group of friends who make games and primarily work in **Godot**.
+
+All of our jam projects are open-source and live here.
+
+## Jam Games
+
 <table>
   <thead>
     <tr>
@@ -15,10 +19,10 @@ We are a group of friends who make games using the Godot engine.
   <tbody>
     <tr>
       <td><a href="https://hutnerr.itch.io/solarcharged">Solar Charged</a></td>
-      <td><a href="https://itch.io/jam/kenney-jam-2025">Kenny Jam 2025</a></td>
+      <td><a href="https://itch.io/jam/kenney-jam-2025">Kenney Jam 2025</a></td>
       <td>Power</td>
       <td>July 2025</td>
-      <td>~</td>
+      <td>—</td>
     </tr>
     <tr>
       <td><a href="https://hutnerr.itch.io/forgotten-paths">Forgotten Paths</a></td>
@@ -37,7 +41,8 @@ We are a group of friends who make games using the Godot engine.
   </tbody>
 </table>
 
-## Other Links
+## Members
+
 <table>
   <thead>
     <tr>
