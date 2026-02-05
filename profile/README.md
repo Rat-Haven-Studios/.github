@@ -50,7 +50,7 @@ All of our jam projects are open-source and live here.
     <tr>
       <th>hutner</th>
       <th>Kob</th>
-      <th>Lopez</th>
+      <th>lop3ze</th>
     </tr>
   </thead>
   <tbody>
