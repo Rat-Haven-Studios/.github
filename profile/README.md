@@ -62,7 +62,7 @@ All of our jam projects are open-source and live here.
     <tr>
       <td><a href="https://github.com/hutnerr">GitHub</a></td>
       <td><a href="https://github.com/Koborooski">GitHub</a></td>
-      <td>~~~</td>
+      <td><a href="https://lospec.com/coolboi">Lospec Portfolio</a></td>
     </tr>
     <tr>
       <td><a href="https://www.hunter-baker.com/">Portfolio</a></td>
