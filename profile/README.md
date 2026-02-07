@@ -69,5 +69,10 @@ All of our jam projects are open-source and live here.
       <td><a href="https://koborooski.github.io/Personal-Website/">Portfolio</a></td>
       <td>~~~</td>
     </tr>
+    <tr>
+      <td><a href="https://lospec.com/hutner">Lospec Portfolio</a></td>
+      <td>~~~</td>
+      <td>~~~</td>
+    </tr>
   </tbody>
 </table>
