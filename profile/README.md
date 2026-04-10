@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://github.com/Rat-Haven-Studios/.github/blob/main/logo.png" width="300">
+</p>
+
 # Rat Haven Studios
 
 Rat Haven Studios is a small group of friends who make games and primarily work in **Godot**.
 
-All of our jam projects are open-source and live here.
-
-<img src="https://github.com/Rat-Haven-Studios/.github/blob/main/logo.png">
+Currently working on converting [Forgotten Paths](https://hutnerr.itch.io/forgotten-paths) into a full steam release. [Devlogs](https://www.hunter-baker.com/pages/other/devlogs.html)
 
 ## Jam Games
+
+All of our jam projects are open-source and live here.
 
 <table>
   <thead>
@@ -62,17 +66,12 @@ All of our jam projects are open-source and live here.
     <tr>
       <td><a href="https://github.com/hutnerr">GitHub</a></td>
       <td><a href="https://github.com/Koborooski">GitHub</a></td>
-      <td><a href="https://lospec.com/coolboi">Lospec Portfolio</a></td>
+      <td>GitHub</td>
     </tr>
     <tr>
       <td><a href="https://www.hunter-baker.com/">Portfolio</a></td>
       <td><a href="https://koborooski.github.io/Personal-Website/">Portfolio</a></td>
-      <td>~~~</td>
-    </tr>
-    <tr>
-      <td><a href="https://lospec.com/hutner">Lospec Portfolio</a></td>
-      <td>~~~</td>
-      <td>~~~</td>
+      <td><a href="https://lospec.com/coolboi">Lospec Portfolio</a></td>
     </tr>
   </tbody>
 </table>
