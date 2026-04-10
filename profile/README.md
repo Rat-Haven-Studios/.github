@@ -8,9 +8,9 @@ Rat Haven Studios is a small group of friends who make games and primarily work 
 
 Currently working on converting [Forgotten Paths](https://hutnerr.itch.io/forgotten-paths) into a full steam release. [Devlogs](https://www.hunter-baker.com/pages/other/devlogs.html)
 
-## Jam Games
-
 All of our jam projects are open-source and live here.
+
+## Jam Games
 
 <table>
   <thead>
