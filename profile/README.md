@@ -20,6 +20,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
 <table>
   <thead>
     <tr>
+      <th>#</th>
       <th>Game</th>
       <th>Jam</th>
       <th>Theme</th>
@@ -30,6 +31,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
   </thead>
   <tbody>
     <tr>
+      <td>1</td>
       <td><a href="https://hutnerr.itch.io/solarcharged">Solar Charged</a></td>
       <td><a href="https://itch.io/jam/kenney-jam-2025">Kenney Jam 2025</a></td>
       <td>Power</td>
@@ -38,6 +40,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
       <td><a href="https://github.com/Rat-Haven-Studios/kenny-jam-2025">Code</a></td>
     </tr>
     <tr>
+      <td>2</td>
       <td><a href="https://hutnerr.itch.io/forgotten-paths">Forgotten Paths</a></td>
       <td><a href="https://itch.io/jam/gmtk-2025">GMTK 2025</a></td>
       <td>Loop</td>
@@ -46,6 +49,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
       <td><a href="https://github.com/Rat-Haven-Studios/gmtk-jam-2025">Code</a></td>
     </tr>
     <tr>
+      <td>3</td>
       <td><a href="https://hutnerr.itch.io/massaquerade">Massaquerade</a></td>
       <td><a href="https://itch.io/jam/wmj2025">Winter MelonJam 2025</a></td>
       <td>Mask</td>
