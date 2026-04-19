@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Rat-Haven-Studios/.github/blob/main/logo.png?v=3" width="300">
+  <!-- <img src="https://github.com/Rat-Haven-Studios/.github/blob/main/logo.png?v=3" width="300"> -->
+  <img src="https://raw.githubusercontent.com/Rat-Haven-Studios/.github/refs/heads/main/logo.png" width="300">
 </p>
 
 # Rat Haven Studios
