@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- <img src="https://github.com/Rat-Haven-Studios/.github/blob/main/logo.png?v=3" width="300"> -->
-  <img src="https://raw.githubusercontent.com/Rat-Haven-Studios/.github/refs/heads/main/logo.png" width="300">
+  <img src="https://rat-haven-studios.github.io/website/resources/logo.png" width="350">
 </p>
 
 # Rat Haven Studios
@@ -12,8 +11,9 @@ All of our jam projects are open-source and live here.
 Check out our [Website](https://rat-haven-studios.github.io/website/).
 
 **Other Links**
-- [Game Jam History](https://www.hunter-baker.com/pages/other/game-jams.html)
-- [Devlogs](https://www.hunter-baker.com/pages/other/devlogs.html)
+- [Game Jam History](https://rat-haven-studios.github.io/website/pages/nav/games.html?type=game-jam)
+- [Devlogs](https://rat-haven-studios.github.io/website/pages/nav/devlogs.html)
+- [Workshop: Tutorials & Articles](https://rat-haven-studios.github.io/website/pages/nav/workshop.html)
 
 
 ## Jam Games
