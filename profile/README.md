@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rat-haven-studios.github.io/website/resources/logo.png" width="350">
+  <img src="https://rathavenstudios.com/resources/logo.png" width="350">
 </p>
 
 # Rat Haven Studios
@@ -8,12 +8,12 @@ Currently working on converting [Forgotten Paths](https://hutnerr.itch.io/forgot
 
 All of our jam projects are open-source and live here.
 
-Check out our [Website](https://rat-haven-studios.github.io/website/).
+Check out our [Website](https://rathavenstudios.com).
 
 **Other Links**
-- [Game Jam History](https://rat-haven-studios.github.io/website/pages/nav/games.html?type=game-jam)
-- [Devlogs](https://rat-haven-studios.github.io/website/pages/nav/devlogs.html)
-- [Workshop: Tutorials & Articles](https://rat-haven-studios.github.io/website/pages/nav/workshop.html)
+- [Game Jam History](https://rathavenstudios.com/pages/nav/games.html?type=game-jam)
+- [Devlogs](https://rathavenstudios.com/pages/nav/devlogs.html)
+- [Workshop: Tutorials & Articles](https://rathavenstudios.com/pages/nav/workshop.html)
 
 
 ## Jam Games
@@ -28,6 +28,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
       <th>Created</th>
       <th>Results</th>
       <th>Repo</th>
+      <th>Studio Page</th>
     </tr>
   </thead>
   <tbody>
@@ -39,6 +40,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
       <td>July 2025</td>
       <td>~~~</td>
       <td><a href="https://github.com/Rat-Haven-Studios/kenny-jam-2025">Code</a></td>
+      <td><a href="https://rathavenstudios.com/pages/games/solar-charged.html">RHS</a></td>
     </tr>
     <tr>
       <td>2</td>
@@ -48,6 +50,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
       <td>August 2025</td>
       <td><a href="https://itch.io/jam/gmtk-2025/rate/3778927">Results</a></td>
       <td><a href="https://github.com/Rat-Haven-Studios/gmtk-jam-2025">Code</a></td>
+      <td><a href="https://rathavenstudios.com/pages/games/forgotten-paths-jam.html">RHS</a></td>
     </tr>
     <tr>
       <td>3</td>
@@ -57,6 +60,7 @@ Check out our [Website](https://rat-haven-studios.github.io/website/).
       <td>December 2025</td>
       <td><a href="https://itch.io/jam/wmj2025/rate/4155805">Results</a></td>
       <td><a href="https://github.com/Rat-Haven-Studios/melon-jam-2025">Code</a></td>
+      <td><a href="https://rathavenstudios.com/pages/games/massaquerade.html">RHS</a></td>
     </tr>
   </tbody>
 </table>
