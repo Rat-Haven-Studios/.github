@@ -6,8 +6,6 @@
 
 Currently working on converting [Forgotten Paths](https://hutnerr.itch.io/forgotten-paths) into a full steam release.
 
-Most of our jam projects are open-source and live here.
-
 Check out our [Website](https://rathavenstudios.com).
 
 **Other Links**
